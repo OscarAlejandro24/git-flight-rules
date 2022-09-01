@@ -143,6 +143,7 @@ All commands should work for at least git version 2.13.0. See the [git website](
   - [Tutorials](#tutorials)
   - [Scripts and Tools](#scripts-and-tools)
   - [GUI Clients](#gui-clients)
+  - [PDF-Michael] (https://pubag.nal.usda.gov/catalog/7712827)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
